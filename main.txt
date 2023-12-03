@@ -1,5 +1,0 @@
-main txt test file for adding details
-
-staging, commit and push steps, moving to branch2
-
-adding line 3
