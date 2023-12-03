@@ -1,3 +1,1 @@
-main txt test file for adding details
-
-staging, commit and push steps
+addin main text file
