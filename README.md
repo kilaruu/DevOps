@@ -1,2 +1,0 @@
-# DevOps
-Shell Script assignments
